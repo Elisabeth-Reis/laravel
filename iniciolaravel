@@ -1,8 +1,8 @@
 <html>
     <head>
-        <title>Minha Primeira AplicaÃ§Ã£o Laravel</title>
+        <title>Minha Primeira Aplicação Laravel</title>
     </head>
     <body>
-        <h1></h1>
+        <h1>Olá, mundo!</h1>
     </body>
 </html>
